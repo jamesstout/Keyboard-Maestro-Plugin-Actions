@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Close All Finder Info Panels</string>
+	<key>Script</key>
+	<string>Action.scpt</string>
+	<key>Icon</key>
+	<string>Icon.png</string>
+	<key>Title</key>
+	<string>Close All Finder Info Panels</string>
+	<key>Author</key>
+	<string>@stoutyhk</string>
+	<key>Help</key>
+	<string>Use this to close all Finder &quot;Get Info&quot; panels.</string>
+	<key>Results</key>
+	<string>None</string>
+</dict>
+</plist>
